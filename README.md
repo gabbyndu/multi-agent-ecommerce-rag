@@ -10,7 +10,7 @@ The project also incorporates retrieval-augmented generation (RAG) to ground pol
 
 ## Architecture and Workflow
 
-![Project Architecture](images/architecture-project-3.png)
+[![Full Trace](full_trace.JPG)](full_trace.JPG)
 
 
 The architecture follows a multi-agent orchestration workflow:
