@@ -10,8 +10,7 @@ The project also incorporates retrieval-augmented generation (RAG) to ground pol
 
 ## Architecture and Workflow
 
-[![Full Trace](full_trace.JPG)](full_trace.JPG)
-[Multi-Agent E-commerce RAG System — GitHub](https://github.com/YOUR-GITHUB-USERNAME/Multi-Agent_E-commerce_RAG.png)
+[![Multi-Agent E-commerce RAG](Multi-Agent_E-commerce_RAG.png)](Multi-Agent_E-commerce_RAG.png)
 
 
 The architecture follows a multi-agent orchestration workflow:
